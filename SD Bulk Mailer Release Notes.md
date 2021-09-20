@@ -2,7 +2,7 @@
 
 ### 9.1.10
 #### Enhancements
-- <div>Bcv18 App - The file structure of the Zip file generated of a Job with Delivery Method of Print was changed from to Job Name folder and Files folder.&nbsp;</div>
+- <div>BCv18 App - The file structure of the Zip file generated of a Job with Delivery Method of Print was changed from to Job Name folder and Files folder.&nbsp;</div>
 - <div>BCv18 App - In the History Print Page the Resend Action for Drafts with Delivery Type of Print was disabled.</div>
 - <div>BCv18 App - The SD Bulk Mailer XML file permissions of Admin, User and View were converted to permission set objects. Permission set extensions were created for&nbsp;<span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">Exten. Mgt. - Admin&quot; to include SD Bulk Mailer Admin permissions,&nbsp;&quot;D365 BUS FULL ACCESS&quot; <span style="display:inline !important;">to include SD Bulk Mailer User permissions and&nbsp;</span>&quot;D365 BASIC&quot; to include SD Bulk Mailer View permissions.</span></div>
 - <div>BCv18 App - The latest ISV Licence Controller changes were added to SD Bulk Mailer.</div>
