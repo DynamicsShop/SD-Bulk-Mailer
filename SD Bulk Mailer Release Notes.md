@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- Bcv18 App - The file structure of the Zip file generated of a Job with Delivery Method of Print was changed from to Job Name folder and Files folder. 
+- BCv18 App - The file structure of the Zip file generated of a Job with Delivery Method of Print was changed from to Job Name folder and Files folder. 
 
 - BCv18 App - In the History Print Page the Resend Action for Drafts with Delivery Type of Print was disabled.
 
