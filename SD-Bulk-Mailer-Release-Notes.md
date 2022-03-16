@@ -1,5 +1,19 @@
 ## SD Bulk Mailer Releases
 
+## 9.1.12
+
+#### Enhancements
+
+- - BCv19 App - A Word Layout can be selected on the SD Bulk Mailer Job Card which allows you to use, when generating the Email Subject and Body for the Draft, the Email Body Layout instead of the SD Bulk Mailer Template that has been defined for the Job. If you select an Email Body Layout of Type Word you have the option to attach the Document to the Draft.  
+
+- BCv19 App - A change was made to how Drafts are inserted into the Draft table. 
+
+- BCv19 App - The link in the ToolTips was updated to point at our new website. 
+
+- BCv19 App - The links in the About Page were updated to point to our new website. 
+
+- BCv19 App - The latest ISV Licence Controller changes were added to SD Bulk Mailer. 
+
 ### 9.1.11
 
 #### Enhancements
