@@ -1,5 +1,11 @@
 ## SD Bulk Mailer Releases
 
+### 9.1.13
+
+#### Enhancements
+
+- BCv19 App - A fix was made to an issue where in certain scenarios the From Ledger Entry field on the SD Bulk Mailer Job Cards was not updating correctly when drafts are issued.
+
 ## 9.1.12
 
 #### Enhancements
