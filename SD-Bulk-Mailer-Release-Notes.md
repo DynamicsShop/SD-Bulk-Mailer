@@ -76,6 +76,20 @@
 
 - BCv17 Public App - The code was updated to use the latest standard smtp emailing functionality in D365 which has been moved to a separate App. 
 
+### 9.1.6.1
+
+#### Enhancements
+
+- BCv14 Private App - Fix to an issue in the BCv14 Private App code base v9.1.6 where the fields on the Job Card are not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.6.1 
+
+#### Bug Fixes
+
+- BCv14 Private App - Fix to an issue in the BCv14 Private App code base v9.1.6 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v9.1.6.1 
+
+- BCv14 Private App - Fix to an issue with placeholders in the SD Bulk Mailer Template in the BCv14 Private App code base v9.1.6. The fixed code base was released as v9.1.6.1 
+
+-  BCv14 Private App - Fix to an issue in the BCv14 Private App code base v9.1.6 where the fields on the Recipients FastTab on the Job Card were not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.6.1
+
 ### 9.1.6
 
 #### Enhancements
