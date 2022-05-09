@@ -78,11 +78,9 @@
 
 ### 9.1.6.1
 
-#### Enhancements
+#### Bug Fixes
 
 - BCv14 Private App - Fix to an issue in the BCv14 Private App code base v9.1.6 where the fields on the Job Card are not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.6.1 
-
-#### Bug Fixes
 
 - BCv14 Private App - Fix to an issue in the BCv14 Private App code base v9.1.6 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v9.1.6.1 
 
