@@ -244,6 +244,20 @@
 
 - BCv14 Private App - The length of description and name fields was increased from 50 to 100 characters as per standard D365BC.
 
+### 9.1.0.2
+
+#### Enhancements
+
+NAV 2016 - Added the Posted Purchase Invoices as a Job Type to this release of NAV2016 v9.1.0.2
+
+### 9.1.0.1
+
+#### Bug Fixes
+
+- NAV 2016 - Fix to an issue in the NAV 2016 code base v9.1.0 where the fields on the Job Card are not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.0.1 
+
+- NAV 2016 - Fix to an issue in the 2016 code base v9.1.0 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v9.1.0.1 
+
 ### 9.1.0
 
 #### Enhancements
