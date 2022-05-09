@@ -1,5 +1,11 @@
 ## SD Bulk Mailer Releases
 
+### 9.1.14
+
+#### Enhancements
+
+- BCv20 App - Posted Purchase Invoices were added as a Job Type to SD Bulk Mailer. 
+
 ### 9.1.13
 
 #### Enhancements
@@ -561,6 +567,12 @@
 - Fixed an issue in the new dll where an error was raised when sending a Draft.
 
 - Fixed a NAV 2017 Compatibility issue in an SD Bulk Mailer Codeunit.
+
+### 8.2.1.1
+
+#### Bug Fixes
+
+- NAV 2013R2 - Fix to an issue in the 2013 R2 code base v8.2.1 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v8.2.1.1
 
 ### 8.2.1
 
