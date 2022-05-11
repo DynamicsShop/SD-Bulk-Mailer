@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- BCv20 App - Posted Purchase Invoices were added as a Job Type to SD Bulk Mailer. 
+- BCv19 App - Posted Purchase Invoices were added as a Job Type to SD Bulk Mailer. 
 
 ### 9.1.13
 
