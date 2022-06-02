@@ -1,5 +1,13 @@
 ## SD Bulk Mailer Releases
 
+### 9.1.15
+
+#### Enhancements
+
+- BCv20 App - An option was added to relevant Job Cards to attach documents that are on the transaction record to the bulk mailer draft. 
+
+- BCv20 App - The Product Activation Page was updated to point to the new CRM URL Subscription page. 
+
 ### 9.1.14
 
 #### Enhancements
@@ -248,15 +256,15 @@
 
 #### Enhancements
 
-NAV 2016 - Added the Posted Purchase Invoices as a Job Type to this release of NAV2016 v9.1.0.2
+NAV 2016 - Added the Posted Purchase Invoices as a Job Type to the NAV 2016 code base v9.1.0.1 and relesed to this code base only as release NAV2016 v9.1.0.2
 
 ### 9.1.0.1
 
 #### Bug Fixes
 
-- NAV 2016 - Fix to an issue in the NAV 2016 code base v9.1.0 where the fields on the Job Card are not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.0.1 
+- NAV 2016 - Fix to an issue in the NAV 2016 code base v9.1.0 where the fields on the Job Card are not correctly assigned when the Job Type is selected. The fixed code base was released as v9.1.0.1 for this code base only.
 
-- NAV 2016 - Fix to an issue in the 2016 code base v9.1.0 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v9.1.0.1 
+- NAV 2016 - Fix to an issue in the NAV 2016 code base v9.1.0 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v9.1.0.1 for this code base only.
 
 ### 9.1.0
 
@@ -598,7 +606,7 @@ NAV 2016 - Added the Posted Purchase Invoices as a Job Type to this release of N
 
 #### Bug Fixes
 
-- NAV 2013R2 - Fix to an issue in the 2013 R2 code base v8.2.1 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v8.2.1.1
+- NAV 2013R2 - Fix to an issue in the 2013 R2 code base v8.2.1 where in certain situations incorrect Ledger Entry Nos were being stamped on the Job Card when the Drafts were issued. The fixed code base was released as v8.2.1.1 for this code base only.
 
 ### 8.2.1
 
