@@ -8,6 +8,8 @@
 
 - BCv20 App - The Product Activation Page was updated to point to the new CRM URL Subscription page. 
 
+- BCv20 App - The Attach Linked Files option was removed from the Sales Shipment Job Card, Service Quotes Job Card and Service Orders Job Card as documents are not attached to these transaction tables.
+
 ### 9.1.14
 
 #### Enhancements
