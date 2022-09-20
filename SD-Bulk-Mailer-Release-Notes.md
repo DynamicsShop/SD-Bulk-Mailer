@@ -86,6 +86,22 @@
 
 - BCv17 Public App - The code was updated to use the latest standard smtp emailing functionality in D365 which has been moved to a separate App. 
 
+### 9.1.6.2
+
+#### Enhancements
+
+- BCv14 App - A Subscriber was added to Codeunit 43014000 – SetDraftReportFilter function. This subscriber was added to the code base of this BCv14 release, released as v9.1.6.2  and was not applied to any future releases. 
+
+- BCv14 App - A Subscriber was added to Codeunit 43014000 – DraftExists function. This subscriber was added to the code base of this BCv14 release, released as v9.1.6.2  and was not applied to any future releases. 
+
+- BCv14 App - A Subscriber was added to Codeunit 43014006 – AddDocument function. This subscriber was added to the code base of this BCv14 release, released as v9.1.6.2  and was not applied to any future releases. 
+
+- BCv14 App - A Subscriber was added to Codeunit 43014008 – ApplySearchFilter function. This subscriber was added to the code base of this BCv14 release, released as v9.1.6.2  and was not applied to any future releases. 
+
+- BCv14 App - A page was created in this BCv14 code base version of the product to display all the Simply Dynamics Apps and subscription details for the tenant. This change was made to the BCv14 release only, released as v9.1.6.2  and was not applied to any future releases. 
+
+- BCv14 App - The latest version of the licence controller was added to this BCv14 code base version product. The licence expiry message was updated to display the app name. This change was made to the BCv14 release only, released as v9.1.6.2  and was not applied to any future releases. 
+
 ### 9.1.6.1
 
 #### Bug Fixes
