@@ -1,5 +1,55 @@
 ## SD Bulk Mailer Releases
 
+### 9.2.0
+
+#### Enhancements
+
+- BCv21 App - The Customer - Payment Receipt Job was modified to print Direct Debit entries on the Customer Ledger Entry. 
+
+- BCv21 App - A new Job Type of Open Sales Invoices was created. 
+
+- BCv21 App - The Drafts page is now refreshed as the drafts are issued when throttling is turned on.  
+
+- BCv21 App - The placeholders list in the Template Card is now sorted alphabetically. 
+
+- BCv21 App - The permission names for SD Bulk Mailer were renamed as per our standard ISV naming conventions. 
+
+- BCv21 App - Events from codeunit 43014008, SDY BM TableRecordRef were published to allow for extensions to SD Bulk Mailer to filter on the Posted Document Range in SD Bulk Mailer Jobs with filters other than a Search From Entry No. 
+
+- BCv21 App - An event was created for  Codeunit 43014000 – SetDraftReportFilter function. 
+
+- BCv21 App - An event was created for Codeunit 43014000 – DraftExists function. 
+
+- BCv21 App - An event was created for  Codeunit 43014006 – AddDocument function. 
+
+- BCv21 App - An event was created for Codeunit 43014008 – ApplySearchFilter function. 
+
+- BCv21 App - Two Job lists were displaying in the Tell Me search. The Job list page used in lookup for Job selection was removed from the Tell Me search. 
+
+- BCv21 App - The action bar in the SD Bulk Mailer Job list was tidied up. 
+
+- BCv21 App - The action bar in the SD Bulk Mailer Draft list was tidied up. 
+
+- BCv21 App - A small change was made to the action bar on the SD Bulk Mailer Role Centre. 
+
+- BCv21 App - The SD Bulk Mailer licence message displayed on first install of the App was updated to prompt the user to activate a free trial and to choose Assisted Setup to create demo data. 
+
+- BCv21 App - A page was created to display all Simply Dynamics Apps and subscription details installed for the tenant. 
+
+- BCv21 App - An Alert Notification was added to show users that they need to activate the licence. 
+
+- BCv21 App - The SD Bulk Mailer Licence expiry message and notification were updated to display the App name. 
+
+- BCv21 App - An ISV Licence Expiry check happens in the SD Bulk Mailer Job Queue Entry CodeUnit to check if the ISV Licence has been extended.  
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD Bulk Mailer Role Centre. 
+
+- BCv21 App - A fix was made to an error raised when sending Drafts for Customers that have special characters in the Customer No. 
+
+- BCv21 App - The filter on the contact business relationship to type customer as per the value on the standard marketing setup was removed as it was not needed.   
+
 ### 9.1.15
 
 #### Enhancements
