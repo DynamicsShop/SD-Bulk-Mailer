@@ -6,7 +6,7 @@
 
 - BCv21 App - The Customer - Payment Receipt Job was modified to print Direct Debit entries on the Customer Ledger Entry. 
 
-- BCv21 App - A new Job Type of Open Sales Invoices was created. 
+- BCv21 App - A new Job Type of Open Sales Invoices was created which allows users send open Invoices to customers as a credit control reminder.
 
 - BCv21 App - The Drafts page is now refreshed as the drafts are issued when throttling is turned on.  
 
