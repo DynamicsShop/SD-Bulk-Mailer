@@ -14,7 +14,7 @@
 
 - BCv14 Private App - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. The dlls were updated to use Microsoft Graph api calls. These changes were added to the BCv14 Private App 9.1.6.2 release of SD Bulk Mailer and released as BCv14 Private App 10.0.0. 
 
-- NAV 2016 - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. The dlls were updated to use Microsoft Graph api calls. This change was added to the NAV 2016 9.1.0.2 release of SD Bulk Mailer and released as NAV2016 10.0.0. 
+- NAV 2018 - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. The dlls were updated to use Microsoft Graph api calls. This change was added to the NAV 2016 9.1.0.2 release of SD Bulk Mailer and released as NAV2018 10.0.0. 
 
 #### Bug Fixes
 
