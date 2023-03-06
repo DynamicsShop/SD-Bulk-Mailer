@@ -1,5 +1,11 @@
 ## SD Bulk Mailer Releases
 
+### 10.0.1
+
+#### Enhancements
+
+- BCv21App - Fix to an error raised when generating drafts for jobs with certain types of filters specified. Caused by a change made in v9.2.0 to fix errors raised when generating drafts for customers that had special characters in the customer no.
+
 ### 10.0.0
 
 #### Enhancements
