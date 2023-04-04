@@ -4,19 +4,19 @@
 
 #### Enhancements
 
-- BCv21App - Fix to an error raised when generating drafts for jobs with certain types of filters specified. Caused by a change made in v9.2.0 to fix errors raised when generating drafts for customers that had special characters in the customer no.
+- AppSource App - Fix to an error raised when generating drafts for jobs with certain types of filters specified. Caused by a change made in v9.2.0 to fix errors raised when generating drafts for customers that had special characters in the customer no.
 
 ### 10.0.0
 
 #### Enhancements
 
-- BCv21 App - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. 
+- AppSource App - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. 
 
-- BCv21 App - The Templates list was surfaced on the SD Bulk Mailer Setup and is now searchable via the Tell Me. 
+- AppSource App - The Templates list was surfaced on the SD Bulk Mailer Setup and is now searchable via the Tell Me. 
 
-- BCv21 App - Minor visual changes were made to the SD Bulk Mailer Setup Card and a KPI FastTab was added to the card. 
+- AppSource App - Minor visual changes were made to the SD Bulk Mailer Setup Card and a KPI FastTab was added to the card. 
 
-- BCv21 App - The action bar on the SD Bulk Mailer Setup Card was tidied up. 
+- AppSource App - The action bar on the SD Bulk Mailer Setup Card was tidied up. 
 
 - BCv14 Private App - Functionality was added to SD Bulk Mailer to allow for modern authentication when sending emails through the use of Microsoft Graph. The dlls were updated to use Microsoft Graph api calls. These changes were added to the BCv14 Private App 9.1.6.2 release of SD Bulk Mailer and released as BCv14 Private App 10.0.0. 
 
@@ -24,11 +24,11 @@
 
 #### Bug Fixes
 
-- BCv21 App - A fix was made to an error that was raised when generating drafts for a job that had a filter set on the job for a field type of option. 
+- AppSource App - A fix was made to an error that was raised when generating drafts for a job that had a filter set on the job for a field type of option. 
 
-- BCv21 App - The SD Bulk Mailer Tenant Subscriptions page had an incorrect caption. This was fixed. 
+- AppSource App - The SD Bulk Mailer Tenant Subscriptions page had an incorrect caption. This was fixed. 
 
-- BCv21 App - A change was made to the ISV Licence Notification procedure in SD Bulk Mailer to fix an issue that would raise an error when the language is changed from English to another language. 
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD Bulk Mailer to fix an issue that would raise an error when the language is changed from English to another language. 
 
 ### 9.2.0
 
