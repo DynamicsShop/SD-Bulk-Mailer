@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- AppSource App - A new SD Bulk Mailer KPI Activity table was created and the SD Bulk Mailer activity groups in the Role Centre were restructures to work off this new KPI Activity table.
+- AppSource App - A new SD Bulk Mailer KPI Activity table was created and the SD Bulk Mailer activity groups in the Role Centre were restructured to work off this new KPI Activity table.
 
 ### 10.0.1
 
