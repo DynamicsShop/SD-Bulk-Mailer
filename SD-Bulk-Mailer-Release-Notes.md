@@ -4,7 +4,7 @@
 
 #### Enhancements
 
-- AppSource App - A change made in v9.2.0 to fix errors raised when generating drafts for customers that had with special characters in the customer no. was reversed out as the change made in v9.2.0 was causing issues with some filters set on the Jobs. 
+- AppSource App - A change made in v9.2.0 to fix errors raised when generating drafts for customers with special characters in the customer no. was reversed out as the change made in v9.2.0 was causing issues with some filters set on the Jobs. 
 
 - AppSource App - The display Aging Band option variable in Job Types of Statement is now passed to the Statement Reports in SD Document Pack.
 
