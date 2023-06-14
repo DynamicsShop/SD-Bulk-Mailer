@@ -1,5 +1,23 @@
 ## SD Bulk Mailer Releases
 
+### 11.0.1
+
+#### Enhancements
+
+- AppSource App - A change made in v9.2.0 to fix errors raised when generating drafts for customers that had with special characters in the customer no. was reversed out as the change made in v9.2.0 was causing issues with some filters set on the Jobs. 
+
+- AppSource App - The display Aging Band option variable in Job Types of Statement is now passed to the Statement Reports in SD Document Pack.
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - An error "Microsoft.Dynamics.Nav.Runtime.NavFieldRef variable not initialised." was raised when users choose to issue Sales Invoice or Open Sales Invoice drafts with a delivery method of print. This was fixed.
+
+- AppSource App - When selecting SD Bulk Mailer activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
+- AppSource App - An error will raise in the Assisted Setup import if non sequential enum values exist in the imported data. This was fixed.
+
 ### 11.0.0
 
 #### Enhancements
