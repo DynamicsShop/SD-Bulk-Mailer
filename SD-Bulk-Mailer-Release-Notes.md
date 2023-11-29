@@ -1,12 +1,16 @@
 ## SD Bulk Mailer Releases
 
-### 11.0.2
+### 11.1.0
 
 #### Enhancements
 
-- AppSource App - The templates in Bulk Mailer use open and closed square brackets to signify a placeholder field in a template's subject or body. If a placeholder field surfaced on a template has a square bracket in it's value, an error is raised when generating drafts that the value of COPYSTR parameter 3 is outside of the permitted range. We have modified the functionality used to build the email subject and body so if a value of a placeholder field contains a square bracket the error is not raised on draft generation.
+- AppSource App - Functionality was added to allow deletion of draft attachments in the Bulk Mailer History. The history details of the issued drafts are not deleted. 
 
 - AppSource App - The functionality used for refresh of draft list when issuing drafts was updated.
+
+- AppSource App - The templates in Bulk Mailer use open and closed square brackets to signify a placeholder field in a template's subject or body. If a placeholder field surfaced on a template has a square bracket in it's value, an error is raised when generating drafts that the value of COPYSTR parameter 3 is outside of the permitted range. We have modified the functionality used to build the email subject and body so if a value of a placeholder field contains a square bracket the error is not raised on draft generation.
+
+- AppSource App - Links in the About page were updated.
 
 #### Bug Fixes
 
