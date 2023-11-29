@@ -44,6 +44,8 @@
 
 - AppSource App - Fix to an error raised when generating drafts for jobs with certain types of filters specified. Caused by a change made in v9.2.0 to fix errors raised when generating drafts for customers that had special characters in the customer no.
 
+- BCv14 Private App - Functionality was added to remove history attachments from the Bulk Mailer History table. The history details of the issued drafts are not deleted.
+
 ### 10.0.0
 
 #### Enhancements
