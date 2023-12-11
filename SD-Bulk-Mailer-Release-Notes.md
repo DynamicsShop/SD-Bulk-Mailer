@@ -1,5 +1,11 @@
 ## SD Bulk Mailer Releases
 
+### 11.1.1
+
+#### Bug Fixes
+
+- AppSource App - A fix was made to how the filters on the reports were generating the drafts.
+
 ### 11.1.0
 
 #### Enhancements
