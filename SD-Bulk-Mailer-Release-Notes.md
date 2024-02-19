@@ -252,6 +252,8 @@
 
 - BCv14 Private App - The ISV Licence Controller was added to the product.
 
+- BCv17 App - The feature to download all issued drafts with a Delivery Method of Print was added to the v9.1.5 BCv17 release and released as v9.1.6 for the BCv17 code base.
+
 ### 9.1.5
 
 #### Enhancements
