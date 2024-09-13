@@ -1,5 +1,13 @@
 ## SD Bulk Mailer Releases
 
+### 12.0.0
+
+#### Enhancements
+
+- AppSource App - User Groups are retired in 2024 release wave 2 and are replaced with Security Groups. A new SD Bulk Mailer Security Group table was created and linked to the SD Bulk Mailer Jobs.
+
+- AppSource App - The logo in the App was updated to the new logo.
+
 ### 11.1.1
 
 #### Bug Fixes
