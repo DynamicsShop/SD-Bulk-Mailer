@@ -1,5 +1,19 @@
 ## SD Bulk Mailer Releases
 
+### 12.0.1
+
+#### Enhancements
+
+- AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
+
+- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message Graph API i used to send emails and the Graph API token has expired.
+
+- AppSource App - Enhancements were made to the App Request Subscription page.
+
+- AppSource App - Additional phrases were added as search phrases for the SD Bulk Mailer pages.
+
+- AppSource App - ToolTips were updated in the About, Product Activation, and Tenant Subscription pages.
+
 ### 12.0.0
 
 #### Enhancements
