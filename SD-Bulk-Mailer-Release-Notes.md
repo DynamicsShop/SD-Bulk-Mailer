@@ -6,7 +6,7 @@
 
 - AppSource App - A change was made to the licence expiry notification. The logic for checking for expiry dates was reworked.
 
-- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message Graph API i used to send emails and the Graph API token has expired.
+- AppSource App - The status detail displayed on the Drafts in Error is updated to display a meaningful message Graph API is used to send emails and the Graph API token has expired.
 
 - AppSource App - Enhancements were made to the App Request Subscription page.
 
