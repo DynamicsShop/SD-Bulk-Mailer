@@ -460,19 +460,35 @@ NAV 2016 - Added the Posted Purchase Invoices as a Job Type to the NAV 2016 code
 
 #### Enhancements
 
-- A change was made to make Statement date range fields mandatory on the Bulk Mailer Job card for a Type of Statement.
+- BCv14 Public App - Converted the Bulk Mailer code base to extensions for deployment on Public Cloud.
 
-- The visual property of mandatory fields on Job Card were reviewed and mandatory fields were marked as such.
+- BCv14 Public App - The Role Center Page cues are now updated when Drafts are created.
 
-- Made a change to allow selection of To Email Address in SD Bulk Mailer SMTP setup when testing SMTP setup.
+- BCv14 Public App - AppSource Certification code cleanup.
 
-- Added the Usage Report Category to Bulk Mailer Pages and updated the Caption in BC365 code base.
+- BCv14 Public App - Removed the Attention Activity Panel from the the standard Sales Order Processer Role Centre.
 
-- Changes were made to re-create a Draft Document from History.
+- BCv14 Public App - Added a native PDF viewer to the product.
 
-- Added User Group Security filters to limit what Jobs, Drafts and History a user can access based on their assigned User Group.
+- BCv14 Public App - Changes were made to the SD Bulk Mailer Setup Card and functionality.
 
-- Added a tooltip to the Type "For Office 365 users use Exchange Web Services as using SMTP may cause errors due to a limitation in Office 365 to reject email streams of over 30 mails per minute".
+- BCv14 Public App - Surfaced the SD Bulk Mailer Role Centre Activity Panels in the standard Sales Order Processer Role Centre.
+
+- BCv14 Public App - A fix was made to the Job Code lookup field in the SD-BM Job Queue.
+
+- BCv14 Public App - Converted the Bulk Mailer code base to extensions for deployment on Public Cloud.
+
+- BCv14 Public App - Added Licence Key Validation.
+
+- BCv14 Public App - Changes were made to the Bulk Mailer Setup. 
+
+- BCv14 Public App - The throttling functionality in the code was reviewed. 
+
+- BCv14 Public App - The Caption of the Bulk Mailer Role Centre was changed. 
+
+- BCv14 Public App - Surfaced the SD Bulk Mailer Role Centre Activity Panels in the standard Sales Order Processer Role Centre.
+
+- BCv14 Public App - A fix was made to the Job Code lookup field in the SD-BM Job Queue.
 
 - BCv14 Private App - Added table changes made in C/AL code base to AL code base.
 
@@ -522,53 +538,23 @@ NAV 2016 - Added the Posted Purchase Invoices as a Job Type to the NAV 2016 code
 
 - BCv14 Private App - The dotnet libraries were converted to an AL library. 
 
-- BCv14 Public App - The Role Center Page cues are now updated when Drafts are created.
+- A change was made to make Statement date range fields mandatory on the Bulk Mailer Job card for a Type of Statement.
 
-- BCv14 Public App - AppSource Certification code cleanup.
+- The visual property of mandatory fields on Job Card were reviewed and mandatory fields were marked as such.
 
-- BCv14 Public App - Removed the Attention Activity Panel from the the standard Sales Order Processer Role Centre.
+- Made a change to allow selection of To Email Address in SD Bulk Mailer SMTP setup when testing SMTP setup.
 
-- BCv14 Public App - Added a native PDF viewer to the product.
+- Added the Usage Report Category to Bulk Mailer Pages and updated the Caption in BC365 code base.
 
-- BCv14 Public App - Changes were made to the SD Bulk Mailer Setup Card and functionality.
+- Changes were made to re-create a Draft Document from History.
 
-- BCv14 Public App - Surfaced the SD Bulk Mailer Role Centre Activity Panels in the standard Sales Order Processer Role Centre.
+- Added User Group Security filters to limit what Jobs, Drafts and History a user can access based on their assigned User Group.
 
-- BCv14 Public App - A fix was made to the Job Code lookup field in the SD-BM Job Queue.
-
-- BCv14 Public App - Converted the Bulk Mailer code base to extensions for deployment on Public Cloud.
-
-- BCv14 Public App - Added Licence Key Validation.
-
-- BCv14 Public App - Changes were made to the Bulk Mailer Setup. 
-
-- BCv14 Public App - The throttling functionality in the code was reviewed. 
-
-- BCv14 Public App - The Caption of the Bulk Mailer Role Centre was changed. 
-
-- BCv14 Public App - Surfaced the SD Bulk Mailer Role Centre Activity Panels in the standard Sales Order Processer Role Centre.
-
-- BCv14 Public App - A fix was made to the Job Code lookup field in the SD-BM Job Queue.
-
-- BCv14 Public App - Converted the Bulk Mailer code base to extensions for deployment on Public Cloud.
+- Added a tooltip to the Type "For Office 365 users use Exchange Web Services as using SMTP may cause errors due to a limitation in Office 365 to reject email streams of over 30 mails per minute".
 
 #### Bug Fixes
 
-- Fixed errors in the SD-BM Job table during conversion from C/Al code base to AL extensions. 
-
-- Updated a caption and tool tip on the SD-BM Job table.
-
-- BCv14 Public App - An issue was fixed in the History List when choosing to Resend an incorrect recipient was being issued with the draft.
-
-- BCv14 Public App - The Job Type KPI was not updating correctly.
-
-- BCv14 Public App - Fixed an issue where the draft was sent to an incorrect recipient.
-
-- BCv14 Public App - Fixed an issue in the Draft Card where a recipient was removed from the list but the mail was then sent to a different recipient.
-
 - BCv14 Private App - Fixed an issue where an error raised when generating Purchase Order drafts.
-
-- BCv14 Public App - Fixed an error raised when generating Drafts.
 
 - BCv14 Private App - Added the Service Order and Customer Payment Receipt Job Types to Job Type KPI.
 
@@ -901,5 +887,6 @@ NAV 2016 - Added the Posted Purchase Invoices as a Job Type to the NAV 2016 code
 #### Enhancements
 
 - Initial Build.
+
 
 
