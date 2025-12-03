@@ -366,36 +366,6 @@
 
 - BCv17 App - The Display Name of the SD Bulk Mailer Role was updated to reflect the naming conventions that we use for our other products.
 
-#### Bug Fixes
-
-- BCV17 App - Fixed an issue where a message was displayed that drafts were generated successfully if user selects cancel on prompt to generate drafts.
-
-- BCv17 App - Fixed an issue with the Customer Payment Receipt Job where the search from Entry No. was not allowing the user to enter a value.
-
-- BCv17 App - From the Email History when user chooses to Recreate a Draft from History the Template on the record was blank and the Delivery Method of Web Service was not removed from the option list.
-
-- BCv17 App - Fixed an issue where Emails were not being sent when resent from History.
-
-- BCv17 App - Fixed an issue where resending from History didn't increment the Deliveries count.
-
-- BCv17 App - Fixed an issue where an error was raised that the Start Date must have a value when running the Customer Statement Job with the standard Statement Report.
-
-- BCv17 App - Fixed an issue where when generating drafts from the Job list, users can generate drafts by selecting the Job Code without pressing the OK button.
-
-- BCv17 App - Fixed an issue where if there was more than one To Recipient on the Draft, the Draft was issued only to the first To Recipient on the list.
-
-- BCv17 App - Fixed an issue where more than one Recipient as a Type of To could not be added on the Job Card.
-
-- BCv17 App - Fixed an issue where the lookups on the Recipients list on the Job Card weren't working.
-
-- BCv17 App - A date format error, related to the licensing functionality, that was raised when the SD Bulk Mailer Setup card was opened was fixed. 
-
-- BCv17 App - A date format information message, related to the licensing functionality, that was raised when the SD Bulk Mailer Setup card was opened was fixed. 
-
-- BCv17 App - A date format error, related to the licensing functionality, that was raised when generating Drafts was fixed. 
-
-- BCv17 App - Fixed an issue where adding a Specific Recipient to a Job incorrectly forced the Address Field No. field on the record to be entered.
-
 ### 9.1.4
 
 #### Enhancements
@@ -887,6 +857,7 @@ NAV 2016 - Added the Posted Purchase Invoices as a Job Type to the NAV 2016 code
 #### Enhancements
 
 - Initial Build.
+
 
 
 
