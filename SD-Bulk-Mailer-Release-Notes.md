@@ -1,5 +1,21 @@
 ## SD Bulk Mailer Releases
 
+### 12.2.0
+
+#### Enhancements
+
+- Telemetry was added to log when Drafts are inserted into the SD Bulk Mailer History table.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- The notification prompting users to activate a free trial of SD Bulk Mailer on a fresh install has been limited to display no more than once per hour on standard role centres.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
+- The SD Bulk Mailer Attention Activities CardPart was added to the standard BC Accountant, Accounts Payable Administrator and Accounts Receivable Administrator Role Centres.
+
 ### 12.1.0
 
 #### Enhancements
